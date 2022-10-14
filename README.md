@@ -37,9 +37,8 @@ curl -X 'POST' \
 ## Usage
 
 - Create a matrix user then join the room where you want to send messages and logout
-- ```docker build -t barpaw/matrix-notifier-ee2e-api:mybuild . ```
 
-- ```docker run -d --rm -p 8001:8001 barpaw/matrix-notifier-ee2e-api:mybuild ```
+- ```docker run -d --rm -p 8001:8001 barpaw/matrix-notifier-ee2e-api:0.0.1  ```
 
 - Try it http://localhost:8001/docs
 
@@ -58,12 +57,3 @@ curl -X 'POST' \
 ## Docker Hub
 
 [barpaw/matrix-notifier-ee2e-api](https://hub.docker.com/r/barpaw/matrix-notifier-ee2e-api)
-
-### Platforms
-
-AMD64
-- ```docker run -d --rm -p 8001:8001 barpaw/matrix-notifier-ee2e-api:0.0.1-amd64 ```
-
-ARM64
-- ```docker run -d --rm -p 8001:8001 barpaw/matrix-notifier-ee2e-api:0.0.1-arm64 ```
-
