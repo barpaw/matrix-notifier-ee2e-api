@@ -57,7 +57,7 @@ curl -X 'POST' \
 
 ## Docker Hub
 
-[barpaw/synapse-notifier-ee2e-api](https://hub.docker.com/r/barpaw/matrix-notifier-ee2e-api)
+[barpaw/matrix-notifier-ee2e-api](https://hub.docker.com/r/barpaw/matrix-notifier-ee2e-api)
 
 ### Platforms
 
