@@ -1,5 +1,5 @@
-# synapse-notifier-ee2e-api
-API for sending messages in encrypted rooms (synapse matrix)
+# matrix-notifier-ee2e-api
+API for sending messages in encrypted rooms (matrix)
 
 ## About
 This project allows you to send messages in encrypted matrix rooms using a web api.
